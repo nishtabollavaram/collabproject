@@ -1,0 +1,10 @@
+---
+title: "example.qmd"
+author: "Nishta Bollavaram"
+format: "html"
+---
+
+
+## Introduction
+
+Hello everyone! This is a simple Quarto file.
