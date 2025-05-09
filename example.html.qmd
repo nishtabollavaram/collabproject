@@ -8,3 +8,8 @@ format: "html"
 ## Introduction
 
 Hello everyone! This is a simple Quarto file.
+
+## This is a new section added in main branch
+
+“The road to success and the road to failure are almost exactly the same.”
+
